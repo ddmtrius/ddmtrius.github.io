@@ -1,2 +1,2 @@
-# ddmtrius.github.io
-yarimasune!
+24歳、学生です。
+いいよ！こいよ！胸にかけて！胸に！
