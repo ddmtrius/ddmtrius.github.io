@@ -4,13 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Jekyll Paper is a simple Jekyll theme, and it is aim to helping you to create your own blog by the easiest way.
+Hello there,
 
-You can find more information in [Jekyll Paper][jekyll-paper] or [Jekyll Paper for Github][jekyll-paper-github]. If you have any questions or suggestions, you can contact me in [Jekyll Paper Issues][jekyll-paper-issues], [Jekyll Paper for Github Issues][jekyll-paper-github-issues] or send email to [me](mailto:i@ghosind.com). 
+I’m Demetrius Dinh, also known as ddmtrius or ddmtrius6324. So far, I’m a high school graduate, a language enthusiast, a Catholic, and an aspiring writer.
 
-Wish you enjoying your blog life!
+Since the turn of the millennium, the Internet has grown tremendously and has become an indispensable part of almost every aspect of modern life. The importance of the Internet is unquestionable, but it is also a double-edged sword. The expansion of the Internet has, in some cases, led to harmful consequences. We are currently facing issues such as misinformation, mental health challenges, and radicalization. This underscores the importance of having a platform to express views freely and without interference. And that is why I created this blog.
 
-[jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
-[jekyll-paper-github]: https://github.com/ghosind/Jekyll-Paper-Github
-[jekyll-paper-issues]: https://github.com/ghosind/Jekyll-Paper/issues
-[jekyll-paper-github-issues]: https://github.com/ghosind/Jekyll-Paper-Github/issues
+My first language is Chinese, but at the same time I'm learning English and Italian. Over here, I will try to write in the latter two languages as much as possible, but that doesn't preclude me from occasionally expressing my ideas in Chinese.
+
+In the meantime, you are welcome to [click here](mailto:demetriusdinh@outlook.com "click here") to send me emails to discuss issues or opinions about a particular matter.
+
+All content is licensed under the [CC BY-NC-SA 4.0 Licence](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en "CC BY-NC-SA 4.0 Licence"). If you wish to republish, please retain the original link and attribution.
+
+Thank you very much.
